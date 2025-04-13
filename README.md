@@ -84,16 +84,5 @@ Your Name - [@Sabya_kumar77](https://twitter.com/yourtwitter)
 
 Project Link: https://sparkling-mermaid-091699.netlify.app
 
-## 🔮 Future Improvements
-
-- [ ] Batch processing multiple images
-- [ ] Custom background replacement
-- [ ] Image editing tools
-- [ ] Save processing history
-- [ ] User accounts and image storage
-- [ ] API usage statistics
-- [ ] Multiple export formats
-
----
 
 Made with ❤️ by [Sabyasachi Kumar]
