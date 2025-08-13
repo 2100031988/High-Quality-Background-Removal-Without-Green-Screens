@@ -80,9 +80,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@Sabya_kumar77](https://twitter.com/yourtwitter)
+Sabyasachi Kumar - [@Sabya_kumar77](https://twitter.com/yourtwitter)
 
 Project Link: https://sparkling-mermaid-091699.netlify.app
 
 
-Made with ❤️ by [Sabyasachi Kumar]
+Made with ❤️ by Sabyasachi Kumar
